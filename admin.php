@@ -37,7 +37,7 @@ $rslt = $mysqli->query($requete) or die ($mysqli->error());
             <div class="sidebar-wrapper">
                 <div class="logo">
                     <a href="#" class="simple-text">
-                        Wiem Zahar
+                        WZ
                     </a>
                 </div>
                 <ul class="nav">
@@ -104,11 +104,11 @@ $rslt = $mysqli->query($requete) or die ($mysqli->error());
                                 <div class="card-body">
                                     <div class="author">
                                         <a href="#">
-                                            <img class="avatar border-gray" src="./images/wiwi.jpg" alt="..." style=" height: -11px;">
-                                            <h5 class="title"  style=" height: 50px;">Wiem ZAHAR</h5>
+                                            <img class="avatar border-gray" src="./images/tasw.png" alt="..." style=" height: -11px;">
+                                            <h5 class="title"  style=" height: 50px;">WZ</h5>
                                         </a>
                                         <p class="description">
-                                            24
+                                            Age
                                         </p>
                                     </div>
                                     <p class="description text-center">
